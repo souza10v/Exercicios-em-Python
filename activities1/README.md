@@ -113,12 +113,27 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 <p>62 - Faça um programa que mostre a tabuada de vários números, um de cada vez, para ca-da valor digitado pelo usuário. O programa será interrompido quando o número solici-tado for negativo.</p>
 <p>63 - Faça um programa que jogue par ou ímpar com o computador. O jogo só será inter-rompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.</p>
 <p>64 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadas-trada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre: </p>
-<p>65 - </p>
-<p>66 - </p>
-<p>67 - </p>
-<p>68 - </p>
-<p>69 - </p>
-<p>70 - </p>
+<p>65 - Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre: A) qual é o total gasto na compra. B) quantos produtos custam mais de R$1000. C) qual é o nome do produto mais barato.</p>
+<p>66 - Crie um programa que simule o funcionamento de um caixa eletrônico. No início, per-gunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai in-formar quantas cédulas de cada valor serão entregues. OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.</p>
+<p>67 - Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso. </p>
+<p>68 - Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre: a) Os 5 primeiros times. b) Os últimos 4 colocados. c) Times em ordem alfabética. d) Em que posição está o ti-me da Chapecoense.</p>
+<p>69 - Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. De-pois disso, mostre a listagem de números gerados e também indique o menor e o mai-or valor que estão na tupla.</p>
+<p>70 - Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tu-pla. No final, mostre: A) Quantas vezes apareceu o valor 9. B) Em que posição foi digi-tado o primeiro valor 3. C) Quais foram os números pares.</p>
+<p>71 - Crie um programa que tenha uma tupla única com nomes de produtos e seus respec-tivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+</p>
+<p>72 - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
+</p>
+<p>73 - Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lis-ta.</p>
+<p>74 - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, se-rão exibidos todos os valores únicos digitados, em ordem crescente.</p>
+<p>75 - Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.</p>
+<p>76 - Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre: 
+ A) Quantos números foram digitados.
+ B) A lista de valores, ordenada de forma decrescente. 
+ C) Se o valor 5 foi digitado e está ou não na lista.</p>
+<p>77 - Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares di-gitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.</p>
+<p>78 - </p>
+<p>79 - </p>
+
 
 
 
